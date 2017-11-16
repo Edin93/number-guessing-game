@@ -1,0 +1,46 @@
+body {
+	width: 650px;
+	margin: 0 auto;
+    text-align:center;
+}
+
+p {
+    padding: 8px;
+	font-size: 1.3rem;
+    box-shadow: 2px 2px 5px lightgray;
+    border-radius: 22px;
+}
+
+label{
+    font-style: italic;
+    font-size: 1.2rem;
+    letter-spacing: 0.15rem;
+}
+
+input{
+    font-size:1.2rem;
+    padding: 6px;
+    font-style: italic;
+    border-radius: 12px;
+    border: none;
+    background-color: #fff;
+    box-shadow: 2px 2px 5px lightgray;
+}
+
+button{
+    padding: 5px;
+    border: none;
+    border-radius: 18px;
+    font-size: 1.3rem;
+    font-weight: 800;
+    background-color: teal;
+    color: white;
+}
+
+.feedback {
+	transform: uppercase;
+	color: white;
+	background-color: tomato;
+	padding: 10px;
+    text-align: center;
+}
