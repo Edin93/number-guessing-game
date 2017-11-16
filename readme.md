@@ -26,7 +26,7 @@
 
 
 <p align="center">
-    <img src="images/Screenshot.png">
+    <img src="Screenshot.png">
 </p>
 
 
